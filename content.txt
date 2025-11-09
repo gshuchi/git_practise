@@ -1,3 +1,6 @@
 this is first.
 this is second.
-this is third.
+this is branch-1. Try Merge Branch.
+try Rebase. Conflict Again from Origin
+Stashing
+Pushing the changes

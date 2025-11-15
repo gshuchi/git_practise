@@ -4,7 +4,6 @@ this is branch-1. Try Merge Branch.
 try Rebase. Conflict Again from Origin
 Stashing
 Pushing the changes
-
-Learn Fetching 
+Learn Fetching
 Fetch 1
 Fetch 2

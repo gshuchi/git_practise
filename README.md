@@ -1,2 +1,2 @@
 # git_practise
-GIT IS GOOD
+GIT IS GOOD 

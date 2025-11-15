@@ -1,3 +1,3 @@
 # git_practise
-GIT IS GOOD
-GOOD IS GIT
+GIT IS GOOD 
+GIT IS TEST GOOD

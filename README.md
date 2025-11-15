@@ -1,2 +1,2 @@
 # git_practise
-GIT IS Awesome
+GIT IS GOOD

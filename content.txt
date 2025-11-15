@@ -1,9 +1,9 @@
-this is first.
-this is second.
-this is branch-1. Try Merge Branch.
-try Rebase. Conflict Again from Origin
-Stashing
-Pushing the changes
-Learn Fetching
-Fetch 1
-Fetch 2
+test
+test 2
+test 3
+fetch 1
+fetch 2
+fetch 3
+conflict 1
+conflict 2
+conflict 3
